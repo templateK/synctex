@@ -30,3 +30,7 @@ synctex.h
 DerivedData/*
 
 *xcodeproj*
+
+*.o
+
+*.a
